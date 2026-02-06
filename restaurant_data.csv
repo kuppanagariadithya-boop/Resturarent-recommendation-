@@ -1,0 +1,101 @@
+Restaurant,City,Cuisines,Online_Delivery,Average_cost,Rating
+Restaurant 001,Los Angeles,Italian,No,300,3.1
+Restaurant 002,Los Angeles,French,Yes,800,3.6
+Restaurant 003,New York,Chinese,Yes,300,3.8
+Restaurant 004,New York,French,Yes,1000,4.1
+Restaurant 005,Dallas,Mediterranean,Yes,600,4.0
+Restaurant 006,New York,Mexican,No,400,3.2
+Restaurant 007,Houston,Thai,Yes,200,3.4
+Restaurant 008,Philadelphia,Thai,No,150,4.3
+Restaurant 009,Dallas,Chinese,No,200,3.9
+Restaurant 010,San Jose,Thai,Yes,1000,2.7
+Restaurant 011,Houston,Japanese,Yes,300,4.7
+Restaurant 012,San Antonio,Japanese,No,900,4.6
+Restaurant 013,Chicago,Thai,No,300,4.2
+Restaurant 014,Los Angeles,Korean,Yes,700,4.3
+Restaurant 015,Chicago,American,No,350,5.0
+Restaurant 016,Dallas,Indian,No,150,3.1
+Restaurant 017,New York,Thai,No,350,2.7
+Restaurant 018,San Jose,Thai,Yes,900,3.7
+Restaurant 019,San Diego,Mexican,No,250,3.1
+Restaurant 020,Dallas,French,No,1000,4.0
+Restaurant 021,San Jose,Mediterranean,No,300,5.0
+Restaurant 022,Chicago,French,No,200,4.4
+Restaurant 023,Los Angeles,Mexican,Yes,900,3.6
+Restaurant 024,Los Angeles,Mediterranean,No,800,5.0
+Restaurant 025,Dallas,Japanese,Yes,900,4.3
+Restaurant 026,Dallas,Japanese,No,200,3.2
+Restaurant 027,Chicago,American,Yes,1000,4.7
+Restaurant 028,Phoenix,French,Yes,700,4.8
+Restaurant 029,Phoenix,French,Yes,250,3.4
+Restaurant 030,Chicago,French,Yes,800,3.3
+Restaurant 031,New York,Chinese,No,350,3.1
+Restaurant 032,Houston,Korean,Yes,200,4.3
+Restaurant 033,Los Angeles,French,Yes,250,4.1
+Restaurant 034,Dallas,Mexican,No,700,4.7
+Restaurant 035,San Antonio,Indian,Yes,1000,3.3
+Restaurant 036,Philadelphia,American,No,200,3.1
+Restaurant 037,Los Angeles,Thai,Yes,800,3.9
+Restaurant 038,San Jose,Indian,Yes,200,4.3
+Restaurant 039,New York,Indian,Yes,150,4.6
+Restaurant 040,Los Angeles,French,Yes,350,4.2
+Restaurant 041,Houston,French,Yes,1000,4.8
+Restaurant 042,San Jose,Korean,No,300,4.5
+Restaurant 043,San Antonio,Indian,Yes,200,4.1
+Restaurant 044,Philadelphia,Mediterranean,No,600,4.7
+Restaurant 045,New York,Chinese,Yes,500,4.3
+Restaurant 046,Los Angeles,Indian,Yes,300,3.8
+Restaurant 047,Chicago,Mediterranean,Yes,350,3.7
+Restaurant 048,Los Angeles,American,Yes,150,4.1
+Restaurant 049,Dallas,Italian,Yes,300,2.9
+Restaurant 050,San Diego,American,Yes,500,4.8
+Restaurant 051,Chicago,Mediterranean,Yes,500,3.2
+Restaurant 052,San Diego,Japanese,No,1000,4.9
+Restaurant 053,Dallas,American,Yes,300,3.2
+Restaurant 054,New York,Korean,Yes,1000,3.3
+Restaurant 055,New York,Korean,No,700,4.8
+Restaurant 056,Dallas,Mexican,Yes,700,2.7
+Restaurant 057,Chicago,Chinese,Yes,900,4.7
+Restaurant 058,San Antonio,Chinese,Yes,800,4.0
+Restaurant 059,San Jose,Chinese,No,900,4.0
+Restaurant 060,Dallas,Thai,No,300,4.2
+Restaurant 061,Philadelphia,Indian,No,500,2.8
+Restaurant 062,Phoenix,American,No,200,2.5
+Restaurant 063,San Jose,Korean,Yes,200,3.8
+Restaurant 064,Dallas,Japanese,Yes,400,4.7
+Restaurant 065,Houston,Thai,No,250,3.6
+Restaurant 066,Dallas,Japanese,Yes,900,4.5
+Restaurant 067,Phoenix,Chinese,Yes,350,2.8
+Restaurant 068,Los Angeles,French,Yes,350,3.2
+Restaurant 069,Houston,Thai,Yes,900,4.1
+Restaurant 070,Phoenix,French,No,350,4.8
+Restaurant 071,New York,Chinese,No,350,2.6
+Restaurant 072,Philadelphia,Mexican,No,250,4.4
+Restaurant 073,Dallas,Mediterranean,Yes,200,2.7
+Restaurant 074,Chicago,French,Yes,400,4.0
+Restaurant 075,Chicago,Mediterranean,Yes,150,3.3
+Restaurant 076,New York,Thai,Yes,900,3.1
+Restaurant 077,Los Angeles,Thai,No,800,4.4
+Restaurant 078,Houston,Mexican,Yes,500,2.6
+Restaurant 079,Philadelphia,Mediterranean,Yes,350,2.9
+Restaurant 080,Los Angeles,Mediterranean,Yes,600,3.1
+Restaurant 081,San Diego,Thai,No,300,3.1
+Restaurant 082,Houston,Mediterranean,No,350,4.7
+Restaurant 083,Phoenix,Thai,No,900,5.0
+Restaurant 084,Dallas,Thai,Yes,200,4.7
+Restaurant 085,Phoenix,Mexican,No,150,2.8
+Restaurant 086,San Antonio,Thai,No,500,4.0
+Restaurant 087,Dallas,Chinese,No,800,3.0
+Restaurant 088,New York,Mediterranean,Yes,700,4.8
+Restaurant 089,Dallas,Indian,No,500,2.7
+Restaurant 090,Philadelphia,Korean,No,900,4.6
+Restaurant 091,Phoenix,French,No,900,3.5
+Restaurant 092,San Antonio,Japanese,Yes,300,3.6
+Restaurant 093,San Antonio,Mexican,No,500,3.9
+Restaurant 094,New York,Japanese,No,300,3.6
+Restaurant 095,San Jose,Korean,No,600,3.6
+Restaurant 096,Houston,French,No,1000,2.9
+Restaurant 097,Los Angeles,Japanese,No,200,4.5
+Restaurant 098,Houston,Japanese,Yes,300,2.9
+Restaurant 099,New York,Indian,No,800,4.6
+Restaurant 100,Los Angeles,American,No,900,3.9
